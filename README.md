@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 An undergoing Computer Science & Engineering graduate,I aspire to become a Machine Learning Engineer and built something as crazy as JARVIS🤖. A constant learner and team builder, who also likes to tinker with hardware(IOT).
 
 ### What are my skills?👨‍💻
+ * I have a strong hold on Python🐍, Java♨ and a quite C++.
