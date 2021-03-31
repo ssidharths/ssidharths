@@ -19,7 +19,9 @@ An undergoing Computer Science & Engineering graduate,I aspire to become a Machi
 
 ### What are my skills?👨‍💻
 * I have a strong hold on **Python**🐍, **Java**♨ and a quite good knowledge in **C++**.
+
 * It was towards the end of 2019 I began my **Machine Learning & Data Science** journey which is still being continued. Currently I am into **Deep Learning**,learning **Data    Structures & Algorithms** & **Robotic Process Automation** with UiPath.
+
 * As part of learning how to deploy machine learning models, I have also touched my hand on **Django & Flask**. Since I am also quite good in **SQL**, I myself consider me as a 'little **Backend developer**' too.
 
 ### Familiar Operating Systems🖥
