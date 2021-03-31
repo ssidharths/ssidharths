@@ -26,4 +26,4 @@ An undergoing Computer Science & Engineering graduate,I aspire to become a Machi
 
 ### Familiar Operating Systems🖥
 Being an immense linux fan boy🐧, I always use linux in my development. 
-* Has a good experience in working **Arch Linux(my favourite & daily driver)** , **Ubuntu** and **Windows**(sure😂?)
+Has a good experience in working **Arch Linux(my favourite & daily driver)** , **Ubuntu** and **Windows**(sure😂?)
