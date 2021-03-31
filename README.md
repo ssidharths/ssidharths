@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 An undergoing Computer Science & Engineering graduate,I aspire to become a Machine Learning Engineer and built something as crazy as JARVIS🤖. A constant learner and team builder, who also likes to tinker with hardware(IOT).
 
 ### What are my skills?👨‍💻
-* I have a strong hold on **Python**🐍, **Java**♨ and a quite good knowledge in **C++**.
+*I have a strong hold on **Python**🐍, **Java**♨ and a quite good knowledge in **C++**.
 
-* It was towards the end of 2019 I began my **Machine Learning & Data Science** journey which is still being continued. Currently I am into **Deep Learning**,learning **Data    Structures & Algorithms** & **Robotic Process Automation** with UiPath.
+*It was towards the end of 2019 I began my **Machine Learning & Data Science** journey which is still being continued. Currently I am into **Deep Learning**,learning **Data    Structures & Algorithms** & **Robotic Process Automation** with UiPath.
 
-* As part of learning how to deploy machine learning models, I have also touched my hand on **Django & Flask**. Since I am also quite good in **SQL**, I myself consider me as a 'little **Backend developer**' too.
+*As part of learning how to deploy machine learning models, I have also touched my hand on **Django & Flask**. Since I am also quite good in **SQL**, I myself consider me as a 'little **Backend developer**' too.
 
 ### Familiar Operating Systems🖥
 Being an immense linux fan boy🐧, I always use linux in my development. 
