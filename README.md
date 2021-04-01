@@ -28,4 +28,4 @@ An undergoing Computer Science & Engineering graduate,I aspire to become a Machi
 - Being an immense linux fan boy🐧, I always use linux in my development. 
 - Has a good experience in working **Arch Linux(my favourite & daily driver)** , **Ubuntu** and **Windows**(sure😂?)
 
-https://github-readme-stats.vercel.app/api?username=binarymatter&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=binarymatter&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
