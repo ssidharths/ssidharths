@@ -32,7 +32,7 @@ In a journey where I can solve real world engineering problems with my technical
 ### Familiar Operating Systems
   <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50"       height="50"/>
-  <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="50" height="50"/>
+  <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="150" height="50"/>
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/windows.png" alt="Windows" widht="50" height="50"/>
   </p>
 
