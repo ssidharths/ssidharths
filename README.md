@@ -36,7 +36,19 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/windows.png" alt="Windows" widht="50" height="50"/>
   </p>
 
+### Connect with me here:  
+
+
+<a href="https://www.linkedin.com/in/ssidharths/">
+    <img align="left" alt="S Sidharth | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a>
+   <a href="https://twitter.com/itzzme_sid">
+    <img align="left" alt="S Sidharth | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a> 
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=itzzmesid alt=itzzmesid/></p>
+
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 
