@@ -2,14 +2,16 @@
 
   A passionate coder🧑‍💻 and constant learner✍️ who loves solving problems.
 
-### What I am upto?🎯
+<h4> What I am upto?🎯 </h4>
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring
 
-### Interests
-<code>Interests = ["Machine Learning", "Deep Learning", "Robotics", "AI in medicine", "Self driving cars", "Web", "IOT", "Blockchain"]</code>
+<h4> Interests </h4>
+<code>Interests = ["Machine Learning", "Deep Learning", 
+                  "Robotics", "AI in medicine",
+                  "Self driving cars", "Web", 
+                  "IOT", "Blockchain"]</code>
 
-
-### Languages I know
+<h4> Languages I know </h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg" alt="C" width="60" height="60" />
