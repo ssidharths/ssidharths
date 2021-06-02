@@ -10,9 +10,9 @@ In a journey where I can solve real world engineering problems with my technical
 ##### ` Interests = ["Machine Learning" , "Deep Learning" , "Robotics", "AI in medicine" , "Self driving cars" , "Web" , "IOT" , "Blockchain"] `
 ### Languages I know
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg" alt="C" width="60" height="60" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg" alt="C++"           width="60" height="60" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg" alt="C++"           width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" alt="Java" width="60"         height="60" />
 </p>
 
@@ -44,7 +44,7 @@ In a journey where I can solve real world engineering problems with my technical
     <img align="left" alt="S Sidharth | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="mailto:sidharths550@gmail.com">
-  <img align="left" alt="S Sidharth | Gmail" width="26px" height="32" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="left" alt="S Sidharth | Gmail" height="32" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
 ---
