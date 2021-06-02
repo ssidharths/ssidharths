@@ -1,18 +1,12 @@
 ### Hi there everyone! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
-
 ### About Me
 - A passionate coder🧑‍💻 
 - Constant learner✍️ 
 - Loves solving problems.
-
 ### What I am upto?🎯
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring.
-
-
 ### Interests
 ##### ` Interests = ["Machine Learning" , "Deep Learning" , "Robotics", "AI in medicine" , "Self driving cars" , "Web" , "IOT" , "Blockchain"] `
-
-
 ### Languages I know
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
@@ -20,8 +14,6 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg" alt="C++"           width="60" height="60" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" alt="Java" width="60"         height="60" />
 </p>
-
-
 ### Technologies & Frameworks I have worked with
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" alt="HTML" width="50"       height="50"/>
