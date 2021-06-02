@@ -1,12 +1,19 @@
 ### Hi there everyone! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+
 ### About Me
+- Computer Science Undergrad
 - A passionate coder🧑‍💻 
 - Constant learner✍️ 
 - Loves solving problems.
+
 ### What I am upto?🎯
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring.
+
+
 ### Interests
 ##### ` Interests = ["Machine Learning" , "Deep Learning" , "Robotics", "AI in medicine" , "Self driving cars" , "Web" , "IOT" , "Blockchain"] `
+
+
 ### Languages I know
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
@@ -22,8 +29,7 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flask/flask-original.svg" alt="Flask" width="50"       height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash" width="50"         height="50"/>
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit Learn" width="100" height="60"/>
-  
-  
+  <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/uipath.png" alt="UiPath" width="50" height="50"/>  
 </p>
 
 
