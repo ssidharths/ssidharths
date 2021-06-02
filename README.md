@@ -36,14 +36,7 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/windows.png" alt="Windows" widht="50" height="50"/>
   </p>
 
-
-
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 
 
 <!--
