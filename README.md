@@ -8,8 +8,14 @@
 - Blockchain⛓
 - Web🌐
 - IOT💡
+- Self driving cars🚗
 
 ### Languages I know
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+
+  
+</p>
 <!--
 **binarymatter/binarymatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
