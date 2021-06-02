@@ -1,6 +1,6 @@
 ### Hi there everyone! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
-### A passionate coder and constant learner who loves solving problems
+  A passionate coder and constant learner who loves solving problems
 
 ### Languages I know
 <!--
