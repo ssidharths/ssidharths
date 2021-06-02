@@ -3,7 +3,7 @@
   A passionate coder🧑‍💻 and constant learner✍️ who loves solving problems.
 
 ### What I am upto?🎯
-In a journey where I can solve real world engineering problems with my the technical skills I acquire
+In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring
 
 ### Interests
 <code>Interests = ["Machine Learning", "Deep Learning", "Robotics", "AI in medicine", "Self driving cars", "Web", "IOT", "Blockchain"]</code>
