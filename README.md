@@ -44,7 +44,7 @@ In a journey where I can solve real world engineering problems with my technical
     <img align="left" alt="S Sidharth | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
 <a href="mailto:sidharths550@gmail.com">
-  <img align="left" alt="S Sidharth | Gmail" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  <img align="left" alt="S Sidharth | Gmail" width="26px" height="32" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 
 <br>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=itzzmesid alt=itzzmesid/></p>
