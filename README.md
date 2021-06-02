@@ -1,10 +1,12 @@
 ### Hi there everyone! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
-  A passionate coder🧑‍💻 and constant learner✍️ who loves solving problems.
-
+### About Me
+- A passionate coder🧑‍💻 
+- Constant learner✍️ 
+- Loves solving problems.
 
 ### What I am upto?🎯
-In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring
+In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring.
 
 
 ### Interests
@@ -26,8 +28,8 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" alt="CSS" width="50"           height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/django/django-original.svg" alt="Django" width="50"   height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/flask/flask-original.svg" alt="Flask" width="50"       height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash" width="50"       height=50"/>
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/bash/bash-original.svg" alt="Bash" width="50"         height="50"/>
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit Learn" width="50" height="50"/>
   
   
 </p>
