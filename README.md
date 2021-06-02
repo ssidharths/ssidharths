@@ -2,17 +2,15 @@
 
   A passionate coder🧑‍💻 and constant learner✍️ who loves solving problems.
 
-### Interests
-- Robotics🤖
-- AI in medicine⚕️
-- Blockchain⛓
-- Web🌐
-- IOT💡
-- Self driving cars🚗
+### What I am upto?🎯
+In a journey where I can solve real world engineering problems with my the technical skills I acquire
+
+<code> Interests = ["Machine Learning", "Deep Learning", "Robotics", "AI in medicine", "Self driving cars", "Web", "IOT", "Blockchain"] </code>
+
 
 ### Languages I know
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
 
   
 </p>
