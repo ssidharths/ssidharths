@@ -2,13 +2,16 @@
 
   A passionate coder🧑‍💻 and constant learner✍️ who loves solving problems.
 
-<h4> What I am upto?🎯 </h4>
+#### What I am upto?🎯
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring
 
-<h4> Interests </h4>
-<code>Interests = ["Machine Learning", "Deep Learning", 
+#### Interests
+<code>Interests = ["Machine Learning", "Deep Learning",
+  
                   "Robotics", "AI in medicine",
+  
                   "Self driving cars", "Web", 
+  
                   "IOT", "Blockchain"]</code>
 
 <h4> Languages I know </h4>
