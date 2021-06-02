@@ -38,8 +38,10 @@ In a journey where I can solve real world engineering problems with my technical
 
 ### Connect with me here:
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="S Sidharth | Linkedin" width="32">](https://www.linkedin.com/in/ssidharths/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="S Sidharth | Twitter" width="32">](https://twitter.com/itzzme_sid) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sidharths550@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
+
 ---
+
 <img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=itzzmesid alt=itzzmesid/></p>
 <!--
