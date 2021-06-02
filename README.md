@@ -8,7 +8,7 @@ In a journey where I can solve real world engineering problems with my technical
 
 
 ### Interests
-##### Interests = ["Machine Learning" , "Deep Learning" , "Robotics", "AI in medicine" , "Self driving cars" , "Web" , "IOT" , "Blockchain"]
+##### ` Interests = ["Machine Learning" , "Deep Learning" , "Robotics", "AI in medicine" , "Self driving cars" , "Web" , "IOT" , "Blockchain"] `
 
 
 ### Languages I know
