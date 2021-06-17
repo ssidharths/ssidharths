@@ -15,7 +15,6 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 </p>
-
 ### Technologies & Frameworks I have worked with
   <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -34,21 +33,18 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/uipath.png" alt="UiPath" width="100" height="40"/>
   </p>
-
 ### Familiar Operating Systems
   <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="30"       height="30"/>
   <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" alt="Arch Linux" width="100" height="30"/>
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/windows.png" alt="Windows" widht="30" height="30"/>
   </p>
-
 ### Connect with me here:
 | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="S Sidharth | Linkedin" width="32">](https://www.linkedin.com/in/ssidharths/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="S Sidharth | Twitter" width="32">](https://twitter.com/itzzme_sid) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sidharths550@gmail.com)
-
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=itzzmesid alt=itzzmesid/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alceil&" alt="alceil" /></p>
 <!--
 **binarymatter/binarymatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
