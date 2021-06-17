@@ -27,7 +27,7 @@ In a journey where I can solve real world engineering problems with my technical
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit Learn" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/uipath.png" alt="UiPath" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/itzzmesid/itzzmesid/main/assets/tf.png" alt="TensorFlow" width="40" height="40/">
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
   </p>
 
 ### Familiar Operating Systems
