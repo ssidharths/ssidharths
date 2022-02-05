@@ -1,4 +1,4 @@
-### Hi there everyone! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+### Hi there! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 ### About Me
 - Computer Science Undergrad
 - A passionate coder🧑‍💻 
