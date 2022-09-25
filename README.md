@@ -1,9 +1,8 @@
 ### Hi there! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 ### About Me
-- An SWE
-- A passionate coder🧑‍💻 
+- An SWE🧑‍💻
 - Constant learner✍️ 
-- Loves solving problems.
+- Loves solving problems and sharing ideas.
 ### What I am upto?🎯
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring.
 ### Interests
