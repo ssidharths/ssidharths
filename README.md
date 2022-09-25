@@ -1,6 +1,6 @@
 ### Hi there! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 ### About Me
-- Computer Science Undergrad
+- An SWE
 - A passionate coder🧑‍💻 
 - Constant learner✍️ 
 - Loves solving problems.
