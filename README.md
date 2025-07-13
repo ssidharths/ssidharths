@@ -1,4 +1,14 @@
-### Hi there! I'm Sidharth<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
+<h3 align="center">
+  Hi there! Myself Sidharth. You can call me Sid
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/ssidharths/ssidharths"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+full+stack+software_engineer;"></a>
+</p>
+
+---
+<div align="center">
+
 ### About Me
 - An SWE🧑‍💻
 - Constant learner✍️ 
