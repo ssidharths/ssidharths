@@ -9,8 +9,9 @@
 ---
 <div align="center">
 
-# 💫About Me
+# 💫About Me :
 An SWE🧑‍💻
+
 Constant learner✍️ 
 Loves collaborating and solving problems.
 
@@ -53,25 +54,17 @@ In a journey where I can solve real world engineering problems with my technical
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
   
 ### Connect with me here:
-| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="S Sidharth | Linkedin" width="32">](https://www.linkedin.com/in/ssidharths/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="S Sidharth | Twitter" width="32">](https://twitter.com/itzzme_sid) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sidharths550@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssidharths/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzzme_sid)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssidharthsmail@gmail.com)
 
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssidharths&show_icons=true&locale=en&layout=compact" alt="Language Stats" /></p>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ssidharths alt=ssidharths/></p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=ssidharths&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alceil&" alt="alceil" /></p>
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
