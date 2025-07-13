@@ -10,9 +10,9 @@
 <div align="center">
 
 # 💫About Me
-- An SWE🧑‍💻
-- Constant learner✍️ 
-- Loves collaborating and solving problems.
+An SWE🧑‍💻
+Constant learner✍️ 
+Loves collaborating and solving problems.
 
 ### What I am upto?🎯
 In a journey where I can solve real world engineering problems with my technical skills that I'm currently acquiring.
