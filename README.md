@@ -57,12 +57,11 @@ In a journey where I can solve real world engineering problems with my technical
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzmesid&show_icons=true&locale=en&layout=compact" alt="Language Stats" /></p>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=itzzmesid alt=itzzmesid/></p>
-<img src="https://github-readme-stats.vercel.app/api?username=itzzmesid&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssidharths&show_icons=true&locale=en&layout=compact" alt="Language Stats" /></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=ssidharths alt=ssidharths/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ssidharths&&show_icons=true&title_color=ffffff&icon_color=00ffff&text_color=daf7dc&bg_color=151515">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alceil&" alt="alceil" /></p>
 <!--
-**binarymatter/binarymatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
