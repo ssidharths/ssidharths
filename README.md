@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hi there! Myself Sidharth. You can call me Sid
+  Hi there! Myself Sidharth
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
@@ -12,7 +12,8 @@
 # 💫About Me :
 An SWE🧑‍💻
 
-Constant learner✍️ 
+Constant learner✍️
+
 Loves collaborating and solving problems.
 
 ### What I am upto?🎯
